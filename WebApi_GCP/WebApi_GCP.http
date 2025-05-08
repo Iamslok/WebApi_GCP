@@ -1,0 +1,6 @@
+@WebApi_GCP_HostAddress = http://localhost:5084
+
+GET {{WebApi_GCP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
